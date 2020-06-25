@@ -1,0 +1,11 @@
+.idea/
+/video/
+
+# Python
+/venv/
+__pycache__/
+
+# OpenPose weights
+pose/body_25/pose_iter_584000.caffemodel
+pose/coco/pose_iter_440000.caffemodel
+pose/mpi/pose_iter_160000.caffemodel

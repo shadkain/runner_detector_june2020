@@ -1,0 +1,36 @@
+{
+    "mode": "MPI",
+    "use-cache": true,
+    "pose-path": "./pose/",
+    "tracking": {
+        "strategy": "h",
+        "ratio": "1:2"
+    },
+    "race": {
+        "frames-for-speed-estimation": 5
+    },
+    "view": {
+        "track": {
+            "show": true,
+            "color": "magenta"
+        },
+        "runner": {
+            "points": {
+                "show": true,
+                "color": "red"
+            },
+            "skeleton": {
+                "show": false,
+                "color": "yellow"
+            },
+            "rect": {
+                "show": true,
+                "color": "blue"
+            }
+        },
+        "tracking-rect": {
+            "show": true,
+            "color": "green"
+        }
+    }
+}

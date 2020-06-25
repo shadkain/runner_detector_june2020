@@ -1,0 +1,17 @@
+{
+    "distance": 5,
+    "start-line": {
+        "begin": {"x": 230, "y": 520},
+        "end": {"x": 277, "y": 488}
+    },
+    "finish-line": {
+        "begin": {"x": 964, "y": 530},
+        "end": {"x": 911, "y": 498}
+    },
+    "start-frame": 7,
+    "initial-rect": {
+        "top-left": {"x": 0, "y": 220},
+        "bottom-right": {"x": 265, "y": 525}
+    },
+    "finish-offset": 5
+}
