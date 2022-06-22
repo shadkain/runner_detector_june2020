@@ -9,7 +9,7 @@ DateTime==4.3
 DocumentTemplate==3.2.3
 ExtensionClass==4.4
 MultiMapping==4.1
-numpy==1.18.5
+numpy==1.22.0
 opencv-python==4.2.0.34
 PasteDeploy==2.1.0
 Persistence==3.0
